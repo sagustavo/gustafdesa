@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Clear Sale<br><br>🌱 I’m currently learning DevOps: CI/CD, K8S, AWS/Azure, Testing and Monitoring tools<br><br>📫 How to reach me gustax.dev@gmail.com<br><br>📄 Know about my experiences: linkedin.com/in/gustavenrique/<br><br>⚡ Fun fact I'm an investments/economics/philosophy enthusiast</p>
+<p align="left">🔭 I’m currently working on Clear Sale<br><br>🌱 I’m currently learning DevOps: CI/CD, K8S, AWS/Azure, Testing and Monitoring tools<br><br>📫 How to reach me gustax.dev@gmail.com<br><br>📄 Know about my experiences: <a href='https://linkedin.com/in/gustavenrique/'>Linkedin</a><br><br>⚡ Fun fact I'm an investments/economics/philosophy enthusiast</p>
 
 ###
 
@@ -15,10 +15,6 @@
   <img src="https://streak-stats.demolab.com?user=gustavenrique&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavenrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/81171856?v=4"  />
 
 ###
 
@@ -110,6 +106,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gustavenrique/gustavenrique/output/snake.svg" alt="Snake animation" />
+<div align='center'>
+<picture align='center'>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavenrique/gustavenrique/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavenrique/gustavenrique/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="github-snake.svg" />
+</picture>
+</div>
 
-###
