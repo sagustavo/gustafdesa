@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Clear Sale<br><br>🌱 I’m currently learning DevOps: CI/CD, K8S, AWS/Azure, Testing and Monitoring tools<br><br>📫 How to reach me gustax.dev@gmail.com<br><br>📄 Know about my experiences: <a href='https://linkedin.com/in/gustavenrique/'>Linkedin</a><br><br>⚡ Fun fact I'm an investments/economics/philosophy enthusiast</p>
+<p align="left">🔭 I’m currently working at Clear Sale<br><br>🌱 I’m currently learning DevOps: CI/CD, K8S, AWS/Azure, Testing and Observability tools<br><br>📫 How to reach me gustax.dev@gmail.com<br><br>📄 Know about my experiences: <a href='https://linkedin.com/in/gustavenrique/'>Linkedin</a><br><br>⚡ Fun fact I'm an investments/economics/philosophy enthusiast</p>
 
 ###
 
@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
   <img width="12" />
@@ -53,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
   <img width="12" />
@@ -72,9 +74,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
