@@ -1,12 +1,12 @@
-<h2 align="left">Hey! I'm Gustavo Oliveira</h2>
+<h2 align="left">Hey! I'm Gustavo</h2>
 
 ###
 
-<h3 align="left">A passionate Full Stack Developer</h3>
+<h3 align="left">A passionate software engineer</h3>
 
 ###
 
-<p align="left">🔭 I’m currently working at Clear Sale<br><br>🌱 I’m currently learning DevOps: CI/CD, K8S, AWS/Azure, Testing and Observability tools<br><br>📫 How to reach me gustax.dev@gmail.com<br><br>📄 Know about my experiences: <a href='https://linkedin.com/in/gustavenrique/'>Linkedin</a><br><br>⚡ Fun fact I'm an investments/economics/philosophy enthusiast</p>
+<p align="left">🔭 I’m currently working at <a href='https://www.xpi.us/'>XP Inc.</a><br><br>🌱 I've been focused on getting deep into DevOps: CI/CD, K8s, AWS/Azure, Testing and Observability tools<br><br>📫 Reach me through my email: gustax.dev@gmail.com<br><br>📄 Get to know about my experiences: <a href='https://linkedin.com/in/gustavenrique/'>Linkedin</a><br><br>⚡ Fun fact: I'm an investments/economics/philosophy enthusiast</p>
 
 ###
 
