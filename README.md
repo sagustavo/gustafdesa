@@ -6,13 +6,13 @@
 
 ###
 
-<p align="left">🔭 I’m currently working at <a href='https://www.xpi.us/'>XP Inc.</a><br><br>🌱 I've been focused on getting deep into DevOps: CI/CD, K8s, AWS/Azure, Testing and Observability tools<br><br>📫 Reach me through my email: gustax.dev@gmail.com<br><br>📄 Get to know about my experiences: <a href='https://linkedin.com/in/gustavenrique/'>Linkedin</a><br><br>⚡ Fun fact: I'm an investments/economics/philosophy enthusiast</p>
+<p align="left">🔭 I’m currently working at <a href='https://www.xpi.us/'>XP Inc.</a><br><br>🌱 I've been focused on getting deep into DevOps: CI/CD, K8s, AWS/Azure, Testing and Observability tools<br><br>📫 Reach me through my email: gustax.dev@gmail.com<br><br>📄 Get to know about my experiences: <a href='https://linkedin.com/in/gustafdesa/'>Linkedin</a><br><br>⚡ Fun fact: I'm an investments/economics/philosophy enthusiast</p>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavenrique&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavenrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gustafdesa&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustafdesa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -111,8 +111,8 @@
 
 <div align='center'>
 <picture align='center'>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavenrique/gustavenrique/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavenrique/gustavenrique/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustafdesa/gustafdesa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustafdesa/gustafdesa/output/github-contribution-grid-snake.svg" />
   <img alt="Snake Animation" src="github-snake.svg" />
 </picture>
 </div>
